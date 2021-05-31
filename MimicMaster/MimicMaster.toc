@@ -1,0 +1,9 @@
+## Interface: 11303
+## Title: Mimic Master
+## Author: Spiken , Based of Rubim's MiniIcon
+## Version: 1.4
+## Notes: Mimic Master copy icons to display easy for you
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+mimicmaster.lua
